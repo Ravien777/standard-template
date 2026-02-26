@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+.DS_Store
+*.log
+coverage
+.idea
+.vscode
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
